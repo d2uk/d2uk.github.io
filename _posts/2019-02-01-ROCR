@@ -1,0 +1,21 @@
+```
+
+## ROC curve
+R의 ROCR package를 이용해서 ROC curve를 그리고 분석하는 예제
+특정 spespicity에서 sensitivity를 구해보고 반대로, cutoff를 특정 부분에서 찾아 본다.
+
+먼저 ROCR package를 부착한다. R에서 보통 많이 예제로 사용하는 iris dataset를 사용해 보자
+```{r cars}
+library(ROCR)
+str(iris)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

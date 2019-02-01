@@ -16,10 +16,10 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "최영호 블로"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "최영호"
 description              : "An amazing website."
 url                      : "https://d2uk.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
